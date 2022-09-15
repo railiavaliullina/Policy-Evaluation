@@ -1,0 +1,55 @@
+{
+  "time": {
+    "direct_solution_avg_time": {
+      "small": 0.00031000375747680664,
+      "medium": 0.0026424503326416015,
+      "large": 0.008824112415313721,
+      "huge": 0.0885158371925354,
+      "colossal": 25.30179536342621
+    },
+    "iterative_solution_avg_time": {
+      "small": 0.0038375949859619143,
+      "medium": 0.018817570209503174,
+      "large": 0.06469582319259644,
+      "huge": 0.2719670104980469,
+      "colossal": 4.580897092819214
+    }
+  },
+  "acc": {
+    "direct_solution_part_of_states_with_better_acc": {
+      "small": 0.77375,
+      "medium": 0.6925,
+      "large": 0.605625,
+      "huge": 0.7837109375,
+      "colossal": 0.9821
+    },
+    "iterative_solution_part_of_states_with_better_acc": {
+      "small": 0.22624999999999995,
+      "medium": 0.3075,
+      "large": 0.39437500000000003,
+      "huge": 0.21628906250000002,
+      "colossal": 0.017900000000000027
+    },
+    "mean_accuracy_direct": {
+      "small": 49.66125,
+      "medium": 65.2334375,
+      "large": 75.1343359375,
+      "huge": 88.641201171875,
+      "colossal": 151.316
+    },
+    "mean_accuracy_iterative": {
+      "small": 39.786875,
+      "medium": 52.69359375,
+      "large": 53.71328125,
+      "huge": 24.74705078125,
+      "colossal": 2.06005
+    },
+    "mean_diff_between_solutions": {
+      "small": 7.420853909285624e-06,
+      "medium": 4.0789949820350665e-05,
+      "large": 2.268292279107829e-05,
+      "huge": 3.9373136592249695e-05,
+      "colossal": 1.5609280220203174e-05
+    }
+  }
+}
