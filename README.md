@@ -14,7 +14,7 @@ File to run:
 
     /executor/executor.py
 
-policy evaluation implementation: 
+Policy evaluation implementation: 
 
     /MDP/policy_evaluation.py
 
