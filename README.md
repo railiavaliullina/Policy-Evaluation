@@ -12,12 +12,12 @@ The policy evaluation algorithm is implemented in two ways:
 
 File to run: 
 
-  /executor/executor.py
+    /executor/executor.py
 
 policy evaluation implementation: 
 
-  /MDP/policy_evaluation.py
+    /MDP/policy_evaluation.py
 
 Comparison of speed and accuracy is in the file (by the 'time' and 'acc' keys):
 
-  /data/runs_stats.json
+    /data/runs_stats.json
