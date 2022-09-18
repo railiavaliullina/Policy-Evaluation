@@ -21,3 +21,8 @@ Policy evaluation implementation:
 Comparison of speed and accuracy is in the file (by the 'time' and 'acc' keys):
 
     /data/runs_stats.json
+
+Parameters of the algorithm can be change in:
+
+    configs/config.py 
+
